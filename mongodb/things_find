@@ -1,0 +1,5 @@
+use test
+
+db.things.find().count()
+db.things.find()
+
